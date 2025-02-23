@@ -27,7 +27,7 @@
 ### 快速启动
 ```bash
 # 下载脚本
-wget https://raw.githubusercontent.com/kybll/Linuxshells-Tools/main/V0.1.sh
+wget https://github.com/kybll/Linuxshells-Tools/raw/refs/heads/master/V0.1.sh
 
 # 添加执行权限
 chmod +x V0.1.sh
